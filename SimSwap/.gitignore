@@ -1,0 +1,10 @@
+antelope.zip
+tmp/*
+checkpoints.zip
+*.pyc
+
+arcface_model/arcface_checkpoint/*
+checkpoints/*
+SimSwap/arcface_model/arcface_checkpoint.tar
+scrfd_10g_bnkps.onnx
+insightface_func/models/antelope/*.onnx
